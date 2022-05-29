@@ -1,6 +1,6 @@
 # Rajat Tribe leader
 
-<h1>Data extraction and visualization:</h1>
+<h3>Data extraction and visualization:</h3>
 
 Technology used :
        python:[
